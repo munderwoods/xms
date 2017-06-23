@@ -1,0 +1,296 @@
+
+=================== FREESOUND ATTRIBUTION FORM =======================
+
+This form below lists all the samples in this pack with their descriptions and tags.
+You can use this form to attribute samples to users when you use them.
+
+=========================== CUT HERE =================================
+
+File:
+	Name: "fm7bd.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=26417
+	Date of upload: 2006-11-30 23:55:35
+	
+Designer / Creator / Uploader:
+	Name: "altemark"
+	Url: http://www.freesound.org/usersViewSingle.php?id=19852
+	
+Description:
+	By "altemark" : Synthesizer drumkit produced in Native Instruments FM7 software.
+
+Tags:
+	bassdrum bd electronic fm fm7 nativeinstruments 
+======================================================================
+
+File:
+	Name: "fm7bd2.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=26418
+	Date of upload: 2006-11-30 23:55:33
+	
+Designer / Creator / Uploader:
+	Name: "altemark"
+	Url: http://www.freesound.org/usersViewSingle.php?id=19852
+	
+Description:
+	By "altemark" : Synthesizer drumkit produced in Native Instruments FM7 software.
+
+Tags:
+	bassdrum bd electronic fm fm7 nativeinstruments 
+======================================================================
+
+File:
+	Name: "fm7bell.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=26419
+	Date of upload: 2006-11-30 23:55:28
+	
+Designer / Creator / Uploader:
+	Name: "altemark"
+	Url: http://www.freesound.org/usersViewSingle.php?id=19852
+	
+Description:
+	By "altemark" : Synthesizer drumkit produced in Native Instruments FM7 software.
+
+Tags:
+	bell electronic fm fm7 nativeinstruments 
+======================================================================
+
+File:
+	Name: "fm7cb.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=26420
+	Date of upload: 2006-11-30 23:55:31
+	
+Designer / Creator / Uploader:
+	Name: "altemark"
+	Url: http://www.freesound.org/usersViewSingle.php?id=19852
+	
+Description:
+	By "altemark" : Synthesizer drumkit produced in Native Instruments FM7 software.
+
+Tags:
+	cowbell electronic fm fm7 nativeinstruments 
+======================================================================
+
+File:
+	Name: "fm7ch.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=26421
+	Date of upload: 2006-11-30 23:55:26
+	
+Designer / Creator / Uploader:
+	Name: "altemark"
+	Url: http://www.freesound.org/usersViewSingle.php?id=19852
+	
+Description:
+	By "altemark" : Synthesizer drumkit produced in Native Instruments FM7 software.
+
+Tags:
+	ch electronic fm fm7 hihat nativeinstruments 
+======================================================================
+
+File:
+	Name: "fm7cymb.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=26422
+	Date of upload: 2006-11-30 23:55:20
+	
+Designer / Creator / Uploader:
+	Name: "altemark"
+	Url: http://www.freesound.org/usersViewSingle.php?id=19852
+	
+Description:
+	By "altemark" : Synthesizer drumkit produced in Native Instruments FM7 software.
+
+Tags:
+	cymbal electronic fm fm7 nativeinstruments 
+======================================================================
+
+File:
+	Name: "fm7digital.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=26423
+	Date of upload: 2006-11-30 23:55:23
+	
+Designer / Creator / Uploader:
+	Name: "altemark"
+	Url: http://www.freesound.org/usersViewSingle.php?id=19852
+	
+Description:
+	By "altemark" : Synthesizer drumkit produced in Native Instruments FM7 software.
+
+Tags:
+	electronic fm fm7 nativeinstruments percussive 
+======================================================================
+
+File:
+	Name: "fm7marac.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=26424
+	Date of upload: 2006-11-30 23:55:14
+	
+Designer / Creator / Uploader:
+	Name: "altemark"
+	Url: http://www.freesound.org/usersViewSingle.php?id=19852
+	
+Description:
+	By "altemark" : Synthesizer drumkit produced in Native Instruments FM7 software.
+
+Tags:
+	electronic fm fm7 maracas nativeinstruments 
+======================================================================
+
+File:
+	Name: "fm7marac2.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=26425
+	Date of upload: 2006-11-30 23:55:10
+	
+Designer / Creator / Uploader:
+	Name: "altemark"
+	Url: http://www.freesound.org/usersViewSingle.php?id=19852
+	
+Description:
+	By "altemark" : Synthesizer drumkit produced in Native Instruments FM7 software.
+
+Tags:
+	electronic fm fm7 maracas nativeinstruments 
+======================================================================
+
+File:
+	Name: "fm7oh.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=26426
+	Date of upload: 2006-11-30 23:55:07
+	
+Designer / Creator / Uploader:
+	Name: "altemark"
+	Url: http://www.freesound.org/usersViewSingle.php?id=19852
+	
+Description:
+	By "altemark" : Synthesizer drumkit produced in Native Instruments FM7 software.
+
+Tags:
+	electronic fm fm7 hihat nativeinstruments oh 
+======================================================================
+
+File:
+	Name: "fm7perc.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=26427
+	Date of upload: 2006-11-30 23:55:04
+	
+Designer / Creator / Uploader:
+	Name: "altemark"
+	Url: http://www.freesound.org/usersViewSingle.php?id=19852
+	
+Description:
+	By "altemark" : Synthesizer drumkit produced in Native Instruments FM7 software.
+
+Tags:
+	electronic fm fm7 nativeinstruments percussive 
+======================================================================
+
+File:
+	Name: "fm7perc2.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=26428
+	Date of upload: 2006-11-30 23:55:00
+	
+Designer / Creator / Uploader:
+	Name: "altemark"
+	Url: http://www.freesound.org/usersViewSingle.php?id=19852
+	
+Description:
+	By "altemark" : Synthesizer drumkit produced in Native Instruments FM7 software.
+
+Tags:
+	electronic fm fm7 nativeinstruments percussive 
+======================================================================
+
+File:
+	Name: "fm7sn2.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=26429
+	Date of upload: 2006-11-30 23:54:58
+	
+Designer / Creator / Uploader:
+	Name: "altemark"
+	Url: http://www.freesound.org/usersViewSingle.php?id=19852
+	
+Description:
+	By "altemark" : Synthesizer drumkit produced in Native Instruments FM7 software.
+
+Tags:
+	electronic fm fm7 nativeinstruments snare 
+======================================================================
+
+File:
+	Name: "fm7snr.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=26430
+	Date of upload: 2006-11-30 23:54:55
+	
+Designer / Creator / Uploader:
+	Name: "altemark"
+	Url: http://www.freesound.org/usersViewSingle.php?id=19852
+	
+Description:
+	By "altemark" : Synthesizer drumkit produced in Native Instruments FM7 software.
+
+Tags:
+	electronic fm fm7 nativeinstruments snare 
+======================================================================
+
+File:
+	Name: "fm7timp.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=26431
+	Date of upload: 2006-11-30 23:54:48
+	
+Designer / Creator / Uploader:
+	Name: "altemark"
+	Url: http://www.freesound.org/usersViewSingle.php?id=19852
+	
+Description:
+	By "altemark" : Synthesizer drumkit produced in Native Instruments FM7 software.
+
+Tags:
+	electronic fm fm7 nativeinstruments timpani 
+======================================================================
+
+File:
+	Name: "fm7toms (2).wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=26432
+	Date of upload: 2006-11-30 23:54:45
+	
+Designer / Creator / Uploader:
+	Name: "altemark"
+	Url: http://www.freesound.org/usersViewSingle.php?id=19852
+	
+Description:
+	By "altemark" : Synthesizer drumkit produced in Native Instruments FM7 software.
+
+Tags:
+	electronic fm fm7 nativeinstruments tom 
+======================================================================
+
+File:
+	Name: "fm7toms (3).wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=26433
+	Date of upload: 2006-11-30 23:54:42
+	
+Designer / Creator / Uploader:
+	Name: "altemark"
+	Url: http://www.freesound.org/usersViewSingle.php?id=19852
+	
+Description:
+	By "altemark" : Synthesizer drumkit produced in Native Instruments FM7 software.
+
+Tags:
+	electronic fm fm7 nativeinstruments tom 
+======================================================================
+
+File:
+	Name: "fm7toms.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=26434
+	Date of upload: 2006-11-30 23:54:40
+	
+Designer / Creator / Uploader:
+	Name: "altemark"
+	Url: http://www.freesound.org/usersViewSingle.php?id=19852
+	
+Description:
+	By "altemark" : Synthesizer drumkit produced in Native Instruments FM7 software.
+
+Tags:
+	electronic fm fm7 nativeinstruments tom 
+======================================================================
+
